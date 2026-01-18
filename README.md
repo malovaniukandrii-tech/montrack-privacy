@@ -16,12 +16,6 @@ This repository contains the Privacy Policy for Montrack - a personal finance tr
 - **Platform:** iOS 17.0+
 - **Privacy:** All data stored locally, no tracking, no analytics
 
-## 🇺🇦 Languages
-
-The Privacy Policy is available in:
-- 🇬🇧 English
-- 🇺🇦 Ukrainian (Українська)
-
 ## 📧 Contact
 
 For questions about the Privacy Policy, contact:
@@ -29,5 +23,5 @@ For questions about the Privacy Policy, contact:
 
 ---
 
-Made with ❤️ in Ukraine 🇺🇦
+Made in Ukraine 🇺🇦
 
